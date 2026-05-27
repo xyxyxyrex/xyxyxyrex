@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I’m an aspiring Fullstack Developer who loves building personal projects and experimenting with IoT.<br>I’m also a graphic designer, video editor, and motion graphics enthusiast. When I’m not coding or designing, you’ll find me enjoying music, movies, and video games.<br>Always learning, exploring, and open to collaboration!<br><br><br>Also, I play League of Legends, and I hate the fact that I'm playing it.
+Hi! I’m an aspiring Fullstack Developer who loves building personal projects and experimenting with IoT.<br>I’m also a graphic designer, video editor, and motion graphics enthusiast. When I’m not coding or designing, you’ll find me enjoying music, movies, and video games.<br>Always learning, exploring, and open to collaboration!<br><br><br>
 
 
 ## 🌐 Socials:
